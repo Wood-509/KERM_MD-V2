@@ -59,7 +59,7 @@ global.SESSION_ID =
   "GY0lnIJb#-ljveFEF8Ajgwbb7JL9Hhd4eMrbVkv0sRprUPywyts0"
 module.exports = {
   menu: process.env.MENU || "",
-  HANDLERS: process.env.PREFIX || ".null,
+  HANDLERS: process.env.PREFIX || "null",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2😍",
